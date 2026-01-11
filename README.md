@@ -28,36 +28,18 @@ with experience in front-end web application development. Skilled in JavaScript,
 
 </div>
 
-## 🛠️ Skills & Technologies
 
-### 💻 Programming Languages
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tessertitan1122&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=tessertitan1122&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tessertitan1122&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=32" alt="JavaScript"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/typescript/3178C6?size=32" alt="TypeScript"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/php/777BB4?size=32" alt="PHP"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/python/3776AB?size=32" alt="Python"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/cplusplus/00599C?size=32" alt="C++"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/csharp/239120?size=32" alt="C#"  />
+---
+[![](https://visitcount.itsvg.in/api?id=tessertitan1122&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 💻 Mobile App Development
-
-<img src="https://cdn.simpleicons.org/react/61DAFB?size=32" alt="React Native"  />
-
-### 💻 Frontend Development
-
-<img src="https://cdn.simpleicons.org/html5/E34F26?size=32" alt="HTML5"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/bootstrap/7952B3?size=32" alt="Bootstrap"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=32" alt="Tailwind CSS"  />
-
-### 💻 Backend Development
-
-<img src="https://cdn.simpleicons.org/nodedotjs/339933?size=32" alt="Node.js"  />
-
-### 💻 Database
-
-<img src="https://cdn.simpleicons.org/postgresql/4169E1?size=32" alt="PostgreSQL"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mysql/4479A1?size=32" alt="MySQL"  />
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tessertitan1122&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=tessertitan1122&label=Profile%20Visitors&color=blueviolet&style=flat-square)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
 
 ---
