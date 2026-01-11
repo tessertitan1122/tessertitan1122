@@ -32,7 +32,7 @@ with experience in front-end web application development. Skilled in JavaScript,
 
 ### 💻 Programming Languages
 
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=32" alt="JavaScript"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/typescript/3178C6?size=32" alt="TypeScript"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/php/777BB4?size=32" alt="PHP"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/python/3776AB?size=32" alt="Python"  />
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=32" alt="JavaScript"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/typescript/3178C6?size=32" alt="TypeScript"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/php/777BB4?size=32" alt="PHP"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/python/3776AB?size=32" alt="Python"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/cplusplus/00599C?size=32" alt="C++"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/csharp/239120?size=32" alt="C#"  />
 
 ### 💻 Mobile App Development
 
@@ -40,7 +40,7 @@ with experience in front-end web application development. Skilled in JavaScript,
 
 ### 💻 Frontend Development
 
-<img src="https://cdn.simpleicons.org/css3/1572B6?size=32" alt="CSS3"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/html5/E34F26?size=32" alt="HTML5"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/bootstrap/7952B3?size=32" alt="Bootstrap"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=32" alt="Tailwind CSS"  />
+<img src="https://cdn.simpleicons.org/html5/E34F26?size=32" alt="HTML5"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/bootstrap/7952B3?size=32" alt="Bootstrap"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=32" alt="Tailwind CSS"  />
 
 ### 💻 Backend Development
 
@@ -54,32 +54,9 @@ with experience in front-end web application development. Skilled in JavaScript,
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tessertitan1122&layout=compact&theme=radical&langs_count=10)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tessertitan1122&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true)
 
-<!-- LeetCode Stats Card: LeetCode username required -->
-
-<!-- DEVTO_BLOG:START -->
-<!-- Repositories that create this section need to replace the URL with their own feed URL. -->
-<!-- It uses a GitHub Action to fetch and display recent posts. -->
-<!-- View https://github.com/gautamkrishnar/blog-post-workflow for setup. -->
-<!-- DEVTO_BLOG:END -->
-**Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
-
-<!-- MEDIUM_BLOG:START -->
-<!-- Repositories that create this section need to replace the URL with their own feed URL. -->
-<!-- It uses a GitHub Action to fetch and display recent posts. -->
-<!-- View https://github.com/gautamkrishnar/blog-post-workflow for setup. -->
-<!-- MEDIUM_BLOG:END -->
-**Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
-
-<!-- BLOG_POST_LIST:START -->
-<!-- Repositories that create this section need to replace the URL with their own feed URL. -->
-<!-- It uses a GitHub Action to fetch and display recent posts. -->
-<!-- View https://github.com/gautamkrishnar/blog-post-workflow for setup. -->
-<!-- BLOG_POST_LIST:END -->
-**Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
+![Visitor Count](https://komarev.com/ghpvc/?username=tessertitan1122&label=Profile%20Visitors&color=blueviolet&style=flat-square)
 
 </div>
 
