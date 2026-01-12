@@ -2,7 +2,10 @@
 
 # Hi 👋, I'm Phongsakorn Bunsom
 
-### Computer Science student
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Frontend+Developer;React+%7C+Next.js+%7C+Laravel&center=true&width=500&height=50">
+</p>
+
 
 <img src="https://github.com/tessertitan1122.png" alt="Phongsakorn Bunsom" width="150" height="150" style="border-radius: 50%;" />
 
